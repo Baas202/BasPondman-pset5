@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Got it from paulina_glab
+    http://stackoverflow.com/questions/26843098/android-appcompat-v721-0-0-change-material-checkbox-colors. -->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/green</item>
+        <item name="android:textColorSecondary">@color/red</item>
+    </style>
+
+
+</resources>
